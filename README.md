@@ -76,7 +76,7 @@ As Machine Learning is divided into two parts: Supervised and unsupervised learn
         Figure 5 shows that the high risk loan cases has 0.72 precision value and 0.33 recall value and low risk loan cases has precision value of 1.00 and 1.00 of recal value. F1 score is in favour for low-risk with the value of 1.00. Over-all, the accuracy score is 0.996. 
 
 
-         After seeing the results, it is concluded that there is reasonable number of higher-risk of false positives cases. The recall value is in favour for high risk that means that there is
+         After seeing the results, it is concluded that there is reasonable number of higher-risk of false positives cases. The recall value is in favour for high risk that means that there is reasonable number of higher risk as that of calculated. Thus, this model is efficient in producing a reasonable result. 
 
 
 
@@ -85,7 +85,12 @@ As Machine Learning is divided into two parts: Supervised and unsupervised learn
   <figcaption>Fig 6: Easy Ensemble AdaBoost Classifier </figcaption>
 </figure>
 
+        Figure 6 shows that the high risk loan cases has 0.08 precision value and 0.91 recall value and low risk loan cases has precision value of 1.00 and 0.91 of recal value. F1 score is in favour for low-risk with the value of 0.97. Over-all, the accuracy score is 0.944. 
 
+
+         After seeing the results, it is concluded that there is reasonable number of higher-risk of false positives cases. The recall value is in favour for high risk that means that there is reasonable and acceptable number of higher risk as that of calculated. Thus, this model is efficient in producing a reasonable result in the deliverable 3.
 
 
 ## ***Summary:***
+
+After seeing the models' results from the respective deliverables, it is conculded that the SMOTENN (from deliverable 2) is the model that supports the models' results that were used in deliverable 1. In deliverable 3, however, the Adapost easy ensemble model is better in producing the accepatble and realistic results. 
