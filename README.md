@@ -2,7 +2,7 @@
 
 ## ***Overview of the analysis:***
 
-In this Module I have been privileged to use Python-Jupyter Notebook to build and evaluate several machine learning models  ̶̶̶̶  that are: Naïve Random OverSampling, SMOTE-OverSampling, ClusterCentroids’ Undersampling, SMOTEENN’s combination of-over-and-under-sampling, and then two ensemble algorithms (Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier). I learned and applied these models for me to predict the credit risk for the unsecured personal loans that are suffered by a large number of American populations. 
+In this Module, I have been privileged to use Python-Jupyter Notebook to build and evaluate several machine learning models  ̶̶̶̶  that are: Naïve Random OverSampling, SMOTE-OverSampling, ClusterCentroids’ Undersampling, SMOTEENN’s combination of-over-and-under-sampling, and then two ensemble algorithms (Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier). I learned and applied these models for me to predict the credit risk for the unsecured personal loans that are suffered by a large number of American populations. 
 
 Thus, I came to realization that with the help of machine learning algorithms, the credit risk is predicted which can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
 
